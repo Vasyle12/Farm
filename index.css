@@ -33,7 +33,7 @@ section{
     margin: 0 auto;  
 }
 .wrapper {
-    background-image: url('/img/what-is-precision-agriculture-2.jpg');
+    background-image: url('https://raw.githubusercontent.com/Vasyle12/Farm/refs/heads/main/img/agriculture-cereal-combine-farm.jpg');
     background-size: cover;
     width: auto;
     height: 1020px;
